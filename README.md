@@ -10,7 +10,7 @@
 ## Lake Olbolosat (Kenya)
 ![](olbolosat.gif)
 ## Parc natural del delta (Spain)
-![](Parc natural del delta.gif)
+![](Parc_natural_del_delta.gif)
 ## Tuvalu
 ![](Tuvalu.gif)
 ## Shonai plane
