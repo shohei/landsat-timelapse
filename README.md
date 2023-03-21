@@ -3,9 +3,9 @@
 
 （10km四方くらいのエリア。10fps）
 
-## Chernobyl
+## Chernobyl (Ukraine)
 ![](Chernobyl.gif)
-## Manhattan, NY
+## Manhattan (USA)
 ![](manhattan.gif)
 ## Lake Olbolosat (Kenya)
 ![](olbolosat.gif)
@@ -13,5 +13,5 @@
 ![](Parc_natural_del_delta.gif)
 ## Tuvalu
 ![](Tuvalu.gif)
-## Shonai plane
+## Shonai plane (Japan)
 ![](庄内平野.gif)
